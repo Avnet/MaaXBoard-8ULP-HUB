@@ -12,8 +12,8 @@ Welcome to the information hub for MaaXBoard 8ULP, featuring the [NXP i.MX 8ULP]
 - [Getting Started & Manuals](#getting-started-and-manuals)
 
 ## About
-MaaXBoard 8ULP is a power efficient, production ready development board in the popular and compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. This [NXP i.MX 8ULP](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8ulp-applications-processor-family:i.MX8ULP) processor-based platform is ideal for development of cost-efficient Edge-AI, Machine Learning, Secure Entry Access-Control Systems, Inventory and Asset Monitoring applications and many more.\
-The MaaXBoard 8ULP is also AWS certified.\
+MaaXBoard 8ULP is a power efficient, production ready development board in the popular and compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. This [NXP i.MX 8ULP](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8ulp-applications-processor-family:i.MX8ULP) processor-based platform is ideal for development of cost-efficient Edge-AI, Machine Learning, Secure Entry Access-Control Systems, Inventory and Asset Monitoring applications and many more.<br />
+The MaaXBoard 8ULP is also AWS certified.<br />
 ![aws](https://github.com/MaximSaka/MaaXBoard-8ULP-HUB/assets/88205887/a83bb35f-21bb-4511-912d-f3cdc47a9bae)
 
 <details>
