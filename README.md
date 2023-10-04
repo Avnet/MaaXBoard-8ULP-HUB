@@ -59,3 +59,9 @@ Available accessory options include a [MIPI 7-inch display](https://www.avnet.co
 
 
 ## Related Blog Posts
+| Topic | Description | Difficulty |
+| -- | -- | -- |
+| [Connect to AWS IoT Core with Avnet's MaaXBoard 8ULP SBC](https://www.hackster.io/bwilless/connect-to-aws-iot-core-with-avnet-s-maaxboard-8ulp-sbc-b84597) | Getting started guide for connecting an Avnet MaaXBoard 8ULP SBC to AWS IoT Core. | Advanced |
+
+## Getting Started and Manuals
+### Product Brief
