@@ -65,3 +65,9 @@ Available accessory options include a [MIPI 7-inch display](https://www.avnet.co
 
 ## Getting Started and Manuals
 ### Product Brief
+- [Block Diagram](https://www.avnet.com/wps/wcm/connect/onesite/539f49d6-7ce2-424d-9044-225cce450cd1/P22_875_MaaXBoard_8ULP_block_diagram.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-539f49d6-7ce2-424d-9044-225cce450cd1-o5EV-WU)
+- [Product Brief](https://www.avnet.com/wps/wcm/connect/onesite/be32218d-f853-49cf-83f8-f48f446369cc/FY23_1099_MaaXBoard_8ULP_Product_Brief_al_r3.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-be32218d-f853-49cf-83f8-f48f446369cc-oqFmjoC)
+### Getting Started Guide
+- [Yocto User Manual](https://www.avnet.com/wps/wcm/connect/onesite/07e9ad99-8969-40c1-b632-db97adf350d0/MaaXBoard-8ULP-Linux-Yocto-UserManual-V3.0.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-07e9ad99-8969-40c1-b632-db97adf350d0-oFe7oZb)
+### Development Guides
+- [Yocto Development Guide](https://www.avnet.com/wps/wcm/connect/onesite/4fa62a19-239c-40c9-aff6-8a122f993f1e/MaaXBoard-8ULP-Linux-Yocto-Development-Guide-V3.0.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-4fa62a19-239c-40c9-aff6-8a122f993f1e-oFe7g.T)
