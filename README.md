@@ -39,3 +39,23 @@ The back of the board has an M.2 module connector for easy addition of 801.11ac 
 <p align="center">
     <img src="https://github.com/MaximSaka/MaaXBoard-8ULP-HUB/assets/88205887/8bf5d33d-755d-41b0-b149-216046fd1276" width="500">
 </p>
+
+### Memory & Storage
+
+The 8ULP processor has on-chip shared RAM (768 KB), while the board is well resourced with power-efficient 32bit wide LPDDR4X DDR (2GB), Octal PSRAM (8 MB), plus eMMC 5.1 flash (32 GB) and Octal SPI NOR flash (4 MB) memory devices.
+
+### Software & BSP
+ADD DETAILS HERE !!!!!!!!!!!!!!!!!!!!!!
+
+### Accessories
+Available accessory options include a [MIPI 7-inch display](https://www.avnet.com/shop/us/products/avnet-engineering-services/aes-acc-maax-disp2-3074457345648625681/), [MIPI CSI camera](https://www.arducam.com/product/arducam-5mp-mipi-camera-for-rzboard-v2l-with-renesas-rz-v2l-processor/), [MaaxBoard 8ULP SOM](https://www.avnet.com/shop/us/products/avnet-engineering-services/aes-maaxb-8ulp-som-g-3074457345648110714/) and [5V/3A USB Type C power supply](https://www.avnet.com/shop/us/products/avnet-engineering-services/aes-acc-maax-pwrul-3074457345642357173/).
+
+[View other Avnet boards](https://www.avnet.com/wps/portal/us/products/avnet-boards/)
+</details>
+
+
+## Related Repositories
+- [MaaXBoard Metalayer](https://github.com/Avnet/meta-maaxboard): Contains the Yocto metalayer for MaaXBoards including the MaaXBoard 8ULP as well as **building information**
+
+
+## Related Blog Posts
