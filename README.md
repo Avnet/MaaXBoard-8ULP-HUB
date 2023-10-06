@@ -3,7 +3,7 @@
 
 Welcome to the information hub for MaaXBoard 8ULP, featuring the [NXP i.MX 8ULP](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8ulp-applications-processor-family:i.MX8ULP) processor to achieve ultra-low power, EdgeLock® secured intelligent edge applications. The i.MX 8ULP family features up to two Arm® Cortex®-A35 running at 800 MHz, an Arm Cortex-M33 core, 3D/2D Graphics Processing Units (GPUs) and a Cadence® Tensilica® Hifi 4 DSP and Fusion DSP for low-power audio/voice and edge AI/ML processing. This repository serves as a central hub for all resources related to MaaXBoard 8ULP.
 
-[Buy the MaaXBoard 8ULP](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/maaxboard/maaxboard-8ulp?family=&nodeClicked=f43a2eb5-ae8c-482c-924c-5932813d1add)
+[Buy MaaXBoard 8ULP](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/maaxboard/maaxboard-8ulp?family=&nodeClicked=f43a2eb5-ae8c-482c-924c-5932813d1add)
 
 ## Table of Contents
 - [About](#about)
@@ -14,7 +14,7 @@ Welcome to the information hub for MaaXBoard 8ULP, featuring the [NXP i.MX 8ULP]
 ## About
 MaaXBoard 8ULP is a power efficient, production ready development board in the popular and compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. This [NXP i.MX 8ULP](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8ulp-applications-processor-family:i.MX8ULP) processor-based platform is ideal for development of cost-efficient Edge-AI, Machine Learning, Secure Entry Access-Control Systems, Inventory and Asset Monitoring applications and many more.<br />
 <p align="center">
-    The MaaXBoard 8ULP is also AWS certified.<br />
+    MaaXBoard 8ULP is also AWS certified.<br />
     <img src="https://github.com/MaximSaka/MaaXBoard-8ULP-HUB/assets/88205887/a83bb35f-21bb-4511-912d-f3cdc47a9bae">
 <br />
 <details>
@@ -55,7 +55,7 @@ Available accessory options include a [MIPI 7-inch display](https://www.avnet.co
 
 
 ## Related Repositories
-- [MaaXBoard Metalayer](https://github.com/Avnet/meta-maaxboard): Contains the Yocto metalayer for MaaXBoards including the MaaXBoard 8ULP as well as **building information**
+- [MaaXBoard Metalayer](https://github.com/Avnet/meta-maaxboard): Contains the Yocto metalayer for MaaXBoards including MaaXBoard 8ULP as well as **building information**
 - [U-boot source code](https://github.com/Avnet/uboot-imx): Contains the source code for U-Boot, a boot loader for Embedded boards.
 - [Linux kernel source code](https://github.com/Avnet/linux-imx): Contains the source code for the Linux kernel.
 - [imx-mkimage source code](https://github.com/Avnet/imx-mkimage): i.MX Mkimage Bootloader Tool for Yocto and Android.
