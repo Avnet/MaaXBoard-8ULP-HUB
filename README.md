@@ -27,9 +27,10 @@ The i.MX 8ULP device is architected with 3 separate processing domains: The appl
 ### Form Factor & Interfaces
 <p align="center">
     <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/e0aaaa1f-f415-42d0-ba01-51400da6e6e2" width="500">
+</p>
+<p align="center">
     <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/f9aa75dc-843f-49c1-8d9b-944874a1c88d" width="500">
 </p>
-
 MaaXBoard 8ULP is engineered as two PCBs, a small SOM (43mm x 36mm) connected via 2x100-pin connectors to a baseboard (BB) in compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. These include Gigabit Ethernet, two USB 2.0 host interfaces, plus separate USB 2.0 device interface, MIPI DSI display and MIPI CSI camera interfaces, a Pi-HAT compatible 40-pin header, MikroE Click 16-pin header plus ADC/DAC 6-pin header.
 
 Audio applications are supported via onboard audio codec, digital microphone and stereo headphone jack I/O. Power is sourced via a USB-C connector and is managed via NXP's PCA9460B PMIC on the SOM plus three additional voltage regulators.
