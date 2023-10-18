@@ -26,7 +26,7 @@ The i.MX 8ULP device is architected with 3 separate processing domains: The appl
 
 ### Form Factor & Interfaces
 <p align="center">
-    <img src="https://github.com/MaximSaka/MaaXBoard-8ULP-HUB/assets/88205887/df56f9be-9b11-4247-b49b-72be39fc498f" width="500">
+    <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/e0aaaa1f-f415-42d0-ba01-51400da6e6e2" width="500">
 </p>
 
 MaaXBoard 8ULP is engineered as two PCBs, a small SOM (43mm x 36mm) connected via 2x100-pin connectors to a baseboard (BB) in compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. These include Gigabit Ethernet, two USB 2.0 host interfaces, plus separate USB 2.0 device interface, MIPI DSI display and MIPI CSI camera interfaces, a Pi-HAT compatible 40-pin header, MikroE Click 16-pin header plus ADC/DAC 6-pin header.
@@ -37,7 +37,7 @@ A unique aspect of this board is it’s debug subsystem which supports remote US
 
 The back of the board has an M.2 module connector for easy addition of 801.11ac Wi-Fi and Bluetooth 5.1 wireless connectivity.
 <p align="center">
-    <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/e0aaaa1f-f415-42d0-ba01-51400da6e6e2" width="500">
+    <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/89c67b3b-8731-4253-9f11-680ab61a5da8" width="500">
 </p>
 
 ### Memory & Storage
