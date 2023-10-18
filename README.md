@@ -1,5 +1,5 @@
 # MaaXBoard-8ULP-HUB
-![Title](https://github.com/MaximSaka/MaaXBoard-8ULP-HUB/assets/88205887/ec10e34a-c6c1-4711-a8af-7398a6cae067)
+![Title](https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/3f4c4d19-b7d9-4991-8aae-bd9100a837e2)
 
 Welcome to the information hub for MaaXBoard 8ULP, featuring the [NXP i.MX 8ULP](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8ulp-applications-processor-family:i.MX8ULP) processor to achieve ultra-low power, EdgeLock® secured intelligent edge applications. The i.MX 8ULP family features up to two Arm® Cortex®-A35 running at 800 MHz, an Arm Cortex-M33 core, 3D/2D Graphics Processing Units (GPUs) and a Cadence® Tensilica® Hifi 4 DSP and Fusion DSP for low-power audio/voice and edge AI/ML processing. This repository serves as a central hub for all resources related to MaaXBoard 8ULP.
 
@@ -15,7 +15,7 @@ Welcome to the information hub for MaaXBoard 8ULP, featuring the [NXP i.MX 8ULP]
 MaaXBoard 8ULP is a power efficient, production ready development board in the popular and compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. This [NXP i.MX 8ULP](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8ulp-applications-processor-family:i.MX8ULP) processor-based platform is ideal for development of cost-efficient Edge-AI, Machine Learning, Secure Entry Access-Control Systems, Inventory and Asset Monitoring applications and many more.<br />
 <p align="center">
     MaaXBoard 8ULP is also AWS certified.<br />
-    <img src="https://github.com/MaximSaka/MaaXBoard-8ULP-HUB/assets/88205887/a83bb35f-21bb-4511-912d-f3cdc47a9bae">
+    <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/6d043334-183d-4f79-a8f8-e6214778eb92">
 <br />
 <details>
     <summary>More information & Specs</summary>
@@ -37,7 +37,7 @@ A unique aspect of this board is it’s debug subsystem which supports remote US
 
 The back of the board has an M.2 module connector for easy addition of 801.11ac Wi-Fi and Bluetooth 5.1 wireless connectivity.
 <p align="center">
-    <img src="https://github.com/MaximSaka/MaaXBoard-8ULP-HUB/assets/88205887/8bf5d33d-755d-41b0-b149-216046fd1276" width="500">
+    <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/e0aaaa1f-f415-42d0-ba01-51400da6e6e2" width="500">
 </p>
 
 ### Memory & Storage
