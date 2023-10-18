@@ -39,7 +39,7 @@ A unique aspect of this board is it’s debug subsystem which supports remote US
 
 The back of the board has an M.2 module connector for easy addition of 801.11ac Wi-Fi and Bluetooth 5.1 wireless connectivity.
 <p align="center">
-    <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/89c67b3b-8731-4253-9f11-680ab61a5da8" width="500">
+    <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/89c67b3b-8731-4253-9f11-680ab61a5da8" width="250">
 </p>
 
 ### Memory & Storage
