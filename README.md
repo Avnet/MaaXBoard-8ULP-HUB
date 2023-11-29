@@ -65,10 +65,14 @@ Available accessory options include a [MIPI 7-inch display](https://www.avnet.co
 - [imx-atf source code](https://github.com/Avnet/imx-atf): Trusted Firmware-A (TF-A) is a reference implementation of secure world software for Arm A-Profile architectures.
 
 
-## Related Blog Posts
+## Related Blog 
+### Hackster.io projects
+[Search hackster.io for all MaaXBoard 8ULP projects](https://www.hackster.io/search?q="MaaXBoard%208ULP"&i=projects)
+
 | Topic | Description | Difficulty |
 | -- | -- | -- |
 | [Connect to AWS IoT Core with Avnet's MaaXBoard 8ULP SBC](https://www.hackster.io/bwilless/connect-to-aws-iot-core-with-avnet-s-maaxboard-8ulp-sbc-b84597) | Getting started guide for connecting an Avnet MaaXBoard 8ULP SBC to AWS IoT Core. | Advanced |
+| [Adding Remote Desktop to MaaXBoard 8ULP](https://www.hackster.io/jacob34/adding-remote-desktop-to-maaxboard-8ulp-18d5a4) | Adding remote desktop capability to the MaaXBoard 8ULP using FreeRDP. | Intermediate |
 
 ## Getting Started and Manuals
 ### Product Brief
