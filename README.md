@@ -7,10 +7,21 @@ Welcome to the information hub for MaaXBoard 8ULP, featuring the [NXP i.MX 8ULP]
 [Buy MaaXBoard 8ULP](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/maaxboard/maaxboard-8ulp?family=&nodeClicked=f43a2eb5-ae8c-482c-924c-5932813d1add)
 
 ## Table of Contents
-- [About](#about)
-- [Related Repositories](#related-repositories)
-- [Related Blog Posts](#related-blog-posts)
-- [Getting Started & Manuals](#getting-started-and-manuals)
+- [MaaXBoard-8ULP-HUB](#maaxboard-8ulp-hub)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+    - [Processing](#processing)
+    - [Form Factor \& Interfaces](#form-factor--interfaces)
+    - [Memory \& Storage](#memory--storage)
+    - [Software \& BSP](#software--bsp)
+    - [Accessories](#accessories)
+  - [Related Repositories](#related-repositories)
+  - [Related Blog](#related-blog)
+    - [Hackster.io projects](#hacksterio-projects)
+  - [Getting Started and Manuals](#getting-started-and-manuals)
+    - [Product Brief](#product-brief)
+    - [Getting Started Guide](#getting-started-guide)
+    - [Development Guides](#development-guides)
 
 ## About
 MaaXBoard 8ULP is a power efficient, production ready development board in the popular and compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. This [NXP i.MX 8ULP](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8ulp-applications-processor-family:i.MX8ULP) processor-based platform is ideal for development of cost-efficient Edge-AI, Machine Learning, Secure Entry Access-Control Systems, Inventory and Asset Monitoring applications and many more.<br />
