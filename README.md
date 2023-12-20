@@ -14,6 +14,8 @@ Welcome to the information hub for MaaXBoard 8ULP, featuring the [NXP i.MX 8ULP]
     - [Form Factor \& Interfaces](#form-factor--interfaces)
     - [Memory \& Storage](#memory--storage)
     - [Software \& BSP](#software--bsp)
+      - [Board Support Package](#board-support-package)
+      - [Image Packages](#image-packages)
     - [Accessories](#accessories)
   - [Related Repositories](#related-repositories)
   - [Related Blog](#related-blog)
@@ -22,6 +24,8 @@ Welcome to the information hub for MaaXBoard 8ULP, featuring the [NXP i.MX 8ULP]
     - [Product Brief](#product-brief)
     - [Getting Started Guide](#getting-started-guide)
     - [Development Guides](#development-guides)
+    - [Release Notes](#release-notes)
+
 
 ## About
 MaaXBoard 8ULP is a power efficient, production ready development board in the popular and compact Raspberry Pi form-factor, which supports a versatile set of I/O interfaces. This [NXP i.MX 8ULP](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8ulp-applications-processor-family:i.MX8ULP) processor-based platform is ideal for development of cost-efficient Edge-AI, Machine Learning, Secure Entry Access-Control Systems, Inventory and Asset Monitoring applications and many more.<br />
@@ -29,7 +33,7 @@ MaaXBoard 8ULP is a power efficient, production ready development board in the p
     MaaXBoard 8ULP is also AWS certified.<br />
     <img src="https://github.com/Avnet/MaaXBoard-8ULP-HUB/assets/88205887/6d043334-183d-4f79-a8f8-e6214778eb92">
 <br />
-<details>
+<details open>
     <summary>More information & Specs</summary>
 
 ### Processing
@@ -59,7 +63,19 @@ The back of the board has an M.2 module connector for easy addition of 801.11ac 
 The 8ULP processor has on-chip shared RAM (768 KB), while the board is well resourced with power-efficient 32bit wide LPDDR4X DDR (2GB), Octal PSRAM (8 MB), plus eMMC 5.1 flash (32 GB) and Octal SPI NOR flash (4 MB) memory devices.
 
 ### Software & BSP
-Comming soon.
+#### Board Support Package
+[Yocto source files](https://github.com/Avnet/meta-maaxboard)
+
+#### Image Packages
+[Yocto Linux Out of Box Image (wic)](https://avtinc.sharepoint.com/:u:/t/ET-Downloads/EU64Tx9HFPJDnAkuHYSiKUMBcwR7Afoe0H_juES2yl-s3g)
+
+[Yocto Linux Out of Box Manifest](https://avtinc.sharepoint.com/:u:/t/ET-Downloads/EY7wk3i_r4VOg9hPxeMkVFcBxZ2n7Ii7KLrX06-YNRW65A)
+
+[Yocto Linux Full Image (wic)](https://avtinc.sharepoint.com/:u:/t/ET-Downloads/EX0ZecM2petAnDaj2Ky3d7MByKoB55fRASdztgjpTxtYuw)
+
+[Yocto Linux Full Manifest](https://avtinc.sharepoint.com/:u:/t/ET-Downloads/EeMdP6j721BAoaCC8pTRaiIBdBe9wLWVo0KzegDIv16PAg)
+
+[BootLoader u-boot Image](https://avtinc.sharepoint.com/:u:/t/ET-Downloads/ES_q6BqSIV9JssbRsO5n-2UB2AtMwp3Ygkjp0Viu5iUrow)
 
 ### Accessories
 Available accessory options include a [MIPI 7-inch display](https://www.avnet.com/shop/us/products/avnet-engineering-services/aes-acc-maax-disp2-3074457345648625681/), [MIPI CSI camera](https://www.arducam.com/product/arducam-5mp-mipi-camera-for-rzboard-v2l-with-renesas-rz-v2l-processor/), [MaaxBoard 8ULP SOM](https://www.avnet.com/shop/us/products/avnet-engineering-services/aes-maaxb-8ulp-som-g-3074457345648110714/) and [5V/3A USB Type C power supply](https://www.avnet.com/shop/us/products/avnet-engineering-services/aes-acc-maax-pwrul-3074457345642357173/).
@@ -90,6 +106,8 @@ Available accessory options include a [MIPI 7-inch display](https://www.avnet.co
 - [Block Diagram](https://www.avnet.com/wps/wcm/connect/onesite/539f49d6-7ce2-424d-9044-225cce450cd1/P22_875_MaaXBoard_8ULP_block_diagram.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-539f49d6-7ce2-424d-9044-225cce450cd1-o5EV-WU)
 - [Product Brief](https://www.avnet.com/wps/wcm/connect/onesite/be32218d-f853-49cf-83f8-f48f446369cc/FY23_1099_MaaXBoard_8ULP_Product_Brief_al_r3.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-be32218d-f853-49cf-83f8-f48f446369cc-oqFmjoC)
 ### Getting Started Guide
-- [Yocto User Manual](https://www.avnet.com/wps/wcm/connect/onesite/07e9ad99-8969-40c1-b632-db97adf350d0/MaaXBoard-8ULP-Linux-Yocto-UserManual-V3.0.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-07e9ad99-8969-40c1-b632-db97adf350d0-oFe7oZb)
+- [Yocto User Manual v3.1](https://avtinc.sharepoint.com/:b:/t/ET-Downloads/EYUZNonnkZtKtACZq0gOaLEBhfitqTJHbYQaCKzRXK_gvg)
 ### Development Guides
-- [Yocto Development Guide](https://www.avnet.com/wps/wcm/connect/onesite/4fa62a19-239c-40c9-aff6-8a122f993f1e/MaaXBoard-8ULP-Linux-Yocto-Development-Guide-V3.0.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-4fa62a19-239c-40c9-aff6-8a122f993f1e-oFe7g.T)
+- [Yocto Development Guide v3.1](https://avtinc.sharepoint.com/:b:/t/ET-Downloads/ERZiC4XtiGFDjyGpWAnKU24Bdh3yi3jPD0W9YxjCi0NO-Q)
+### Release Notes
+- [Yocto Release Note v3.1](https://avtinc.sharepoint.com/:b:/t/ET-Downloads/EWxNIJ3bdqtBmtS7dV8xtoIBV0Jz27MxOG9a1z9QYQ34-w)
